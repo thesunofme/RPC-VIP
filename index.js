@@ -36,9 +36,9 @@ const r = new Discord.RichPresence()
     })*/
 
     .setStartTimestamp(Date.now())
-    .setAssetsLargeImage('https://media0.giphy.com/media/lhQNkbnFxFDYGN7Hb4/giphy.gif')
+    .setAssetsLargeImage('https://reelduckz.000webhostapp.com/linhtinh/g1.gif')
     .setAssetsLargeText('_reelDuckZ')
-    .setAssetsSmallImage('https://media4.giphy.com/media/GPvEcaJt7XVucUr2OR/giphy_s.gif')
+    .setAssetsSmallImage('https://reelduckz.000webhostapp.com/linhtinh/verify.gif')
     .setAssetsSmallText('Verify User')
     .addButton('Nghe nhạc ko ?', 'https://www.youtube.com/watch?v=ybaISsqERqg')
     .addButton('Discord Server', 'https://discord.gg/9ad8a4YM4nz')
